@@ -1,0 +1,11 @@
+/ReferenceAssemblies/Tridion.ContentManager.Common.dll
+
+/ReferenceAssemblies/Tridion.Common.dll
+/ReferenceAssemblies/Tridion.ContentManager.dll
+/ReferenceAssemblies/Tridion.ContentManager.Publishing.dll
+Debug
+/packages/Selenium.Support.2.41.0/*.nupkg
+*.dll
+Selenium.Support.2.41.0
+Selenium.WebDriver.2.41.0
+Selenium.WebDriver.ChromeDriver.2.9.0.1

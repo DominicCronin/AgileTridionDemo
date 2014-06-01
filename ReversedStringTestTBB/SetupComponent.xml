@@ -1,0 +1,72 @@
+﻿<tcm:Component ID="tcm:3-4288" IsEditable="false" xmlns:tcm="http://www.tridion.com/ContentManager/5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <tcm:Context>
+    <tcm:Publication xlink:type="simple" xlink:title="02 Content" xlink:href="tcm:0-3-1" />
+    <tcm:OrganizationalItem xlink:type="simple" xlink:title="Article" xlink:href="tcm:3-4284-2" />
+  </tcm:Context>
+  <tcm:Info>
+    <tcm:LocationInfo>
+      <tcm:WebDAVURL>/webdav/02%20Content/Building%20Blocks/Test/PerSchema/Article/GeneratedTestData_9.xml</tcm:WebDAVURL>
+      <tcm:Path>\02 Content\Building Blocks\Test\PerSchema\Article</tcm:Path>
+    </tcm:LocationInfo>
+    <tcm:BluePrintInfo>
+      <tcm:OwningPublication xlink:type="simple" xlink:title="02 Content" xlink:href="tcm:0-3-1" />
+      <tcm:IsShared>false</tcm:IsShared>
+      <tcm:IsLocalized>false</tcm:IsLocalized>
+    </tcm:BluePrintInfo>
+    <tcm:VersionInfo>
+      <tcm:Version>2</tcm:Version>
+      <tcm:Revision>0</tcm:Revision>
+      <tcm:CreationDate>2014-03-30T17:12:57</tcm:CreationDate>
+      <tcm:RevisionDate>2014-03-30T17:12:58</tcm:RevisionDate>
+      <tcm:Creator xlink:type="simple" xlink:title="TRIDION2013\Administrator" xlink:href="tcm:0-11-65552" />
+      <tcm:Revisor xlink:type="simple" xlink:title="TRIDION2013\Administrator" xlink:href="tcm:0-11-65552" />
+      <tcm:ItemLock Type="0" Title="No lock" />
+      <tcm:IsNew>false</tcm:IsNew>
+      <tcm:SystemComment>Checked-in by TRIDION2013\Administrator.</tcm:SystemComment>
+      <tcm:UserComment />
+    </tcm:VersionInfo>
+    <tcm:LockInfo>
+      <tcm:ItemLock Type="0" Title="No lock" />
+    </tcm:LockInfo>
+    <tcm:PublishInfo>
+      <tcm:IsPublished>false</tcm:IsPublished>
+    </tcm:PublishInfo>
+    <tcm:WorkflowInfo>
+      <tcm:ProcessInstance xlink:type="simple" xlink:title="" xlink:href="tcm:0-0-0" />
+      <tcm:ActivityInstance Description="" xlink:type="simple" xlink:title="" xlink:href="tcm:0-0-0" />
+      <tcm:Assignee xlink:type="simple" xlink:title="" xlink:href="tcm:0-0-0" />
+      <tcm:Performer xlink:type="simple" xlink:title="" xlink:href="tcm:0-0-0" />
+      <tcm:CreationDate />
+      <tcm:StartDate />
+      <tcm:FinishDate />
+      <tcm:PreviousMessage></tcm:PreviousMessage>
+      <tcm:AssignmentDate />
+      <tcm:DueDate />
+    </tcm:WorkflowInfo>
+    <tcm:AllowedActions>
+      <tcm:Actions Allow="268560777" Deny="614" Managed="0" />
+    </tcm:AllowedActions>
+  </tcm:Info>
+  <tcm:Data>
+    <tcm:Title>GeneratedTestData_9</tcm:Title>
+    <tcm:Type>Normal</tcm:Type>
+    <tcm:Schema xlink:type="simple" xlink:title="Article" xlink:href="tcm:3-3031-8" IsMandatory="false" />
+    <tcm:Content>
+      <Content xmlns="uuid:46c6a1a7-f587-4191-a668-a270c2443fa4">
+        <header>header [&lt;&gt;"&amp;'ŦĐŜ]</header>
+        <body>
+          <h1 id="body" xmlns="http://www.w3.org/1999/xhtml">Body Header One</h1>
+          Plain text
+          <p xmlns="http://www.w3.org/1999/xhtml">paragraph</p><br xmlns="http://www.w3.org/1999/xhtml" /><h2 xmlns="http://www.w3.org/1999/xhtml">Body Header Two</h2><h3 xmlns="http://www.w3.org/1999/xhtml">Body Header Three</h3><h4 xmlns="http://www.w3.org/1999/xhtml">Body Header Four</h4><h5 xmlns="http://www.w3.org/1999/xhtml">Body Header Five</h5><h6 xmlns="http://www.w3.org/1999/xhtml">Body Header Six</h6><section xmlns="http://www.w3.org/1999/xhtml">
+            Here is a section
+          </section>
+          Bwahahaha - your cunning ruse comes unravelled!!!!
+        </body>
+      </Content>
+    </tcm:Content>
+    <tcm:Metadata />
+    <tcm:ApprovalStatus xlink:type="simple" xlink:title="Undefined" xlink:href="tcm:0-0-0" />
+    <tcm:IsBasedOnTridionWebSchema>true</tcm:IsBasedOnTridionWebSchema>
+    <tcm:MultimediaType xlink:type="simple" xlink:title="" xlink:href="tcm:0-0-0" />
+  </tcm:Data>
+</tcm:Component>
